@@ -2,5 +2,5 @@
 while true
 do
 java -jar nukkit.jar
-sleep 3
+sleep 10
 done
